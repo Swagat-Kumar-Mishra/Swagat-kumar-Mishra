@@ -1,70 +1,114 @@
-<div style="font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; background-color: #0d1117; color: #c9d1d9; padding: 2rem;">
+<!-- 
+Hi, Swagat! 
 
-  <!-- ANIMATED GRADIENT HEADER -->
-  <div align="center">
-    <h1 style="font-size: 4rem; font-weight: 800; letter-spacing: -2px; margin-bottom: 0.5rem; background: linear-gradient(90deg, #58A6FF, #A371F7 50%, #F076C4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: slide 5s ease-in-out infinite;">
-      Swagat Kumar Mishra
-    </h1>
-    <p style="font-size: 1.25rem; color: #8b949e; font-weight: 300;">
-      An Architect of Digital Experiences & Visual Harmony
-    </p>
-  </div>
+To make this your own, you'll need to:
+1. Update the social media links to your actual profiles.
+2. Customize the list of skills under "My Skill Set" to reflect your expertise.
+3. Update the "Currently Focusing On" section with your current learning goals.
 
-  <!-- CSS Animation for the Gradient -->
-  <style>
-    @keyframes slide {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
+Good luck! 
+-->
 
-  <!-- VISUAL DIVIDER -->
-  <div style="height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 3rem 0;"></div>
-
-  <!-- CORE PRINCIPLES SECTION -->
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td style="padding: 1.5rem; text-align: center; width: 33%;">
-        <h2 style="font-size: 1.5rem; color: #58A6FF; margin-bottom: 1rem; font-weight: 600;">CODE</h2>
-        <p style="color: #8b949e; line-height: 1.6;">
-          Crafting clean, efficient, and scalable solutions from the ground up. Believing that elegant code is the foundation of every memorable digital interaction.
-        </p>
-      </td>
-      <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; padding: 1.5rem; text-align: center; width: 33%;">
-        <h2 style="font-size: 1.5rem; color: #A371F7; margin-bottom: 1rem; font-weight: 600;">DESIGN</h2>
-        <p style="color: #8b949e; line-height: 1.6;">
-          A minimalist approach to aesthetics, where form and function coexist. Every pixel and transition is deliberate, designed to be intuitive and beautiful.
-        </p>
-      </td>
-      <td style="padding: 1.5rem; text-align: center; width: 33%;">
-        <h2 style="font-size: 1.5rem; color: #F076C4; margin-bottom: 1rem; font-weight: 600;">IMPACT</h2>
-        <p style="color: #8b949e; line-height: 1.6;">
-          Focused on creating performant, accessible, and engaging experiences that resonate with users and leave a lasting positive impression.
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <!-- VISUAL DIVIDER -->
-  <div style="height: 1px; background: linear-gradient(90deg, transparent, #30363d, transparent); margin: 3rem 0;"></div>
-
-  <!-- TOOLKIT SECTION -->
-  <div align="center">
-    <h3 style="font-size: 1.25rem; color: #8b949e; font-weight: 400; margin-bottom: 1.5rem;">Primary Toolkit</h3>
-    <div>
-      <img src="https://img.shields.io/badge/HTML5-1D2025?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1D2025?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-1D2025?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Git-1D2025?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-    </div>
-  </div>
-
-  <!-- FOOTER -->
-  <div align="center" style="margin-top: 4rem; padding-top: 2rem;">
-    <p style="font-size: 0.9rem; color: #484f58;">
-      This profile is a living document, continuously evolving.
-    </p>
-  </div>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Swagat Kumar Mishra
+    <br/>
+  </h1>
+  <h3>A Passionate Full-Stack Developer & Cloud Architect</h3>
 </div>
+
+<div id="socials" align="center">
+  <a href="#"> <!-- Add your LinkedIn profile link here -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#"> <!-- Add your Twitter profile link here -->
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="#"> <!-- Add your personal portfolio link here -->
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a results-driven Software Developer with a strong passion for crafting robust, scalable, and elegant solutions. My expertise lies in bridging the gap between intricate backend logic and seamless user-facing interfaces. I thrive in collaborative environments, continuously learning and applying modern technologies to solve complex problems and build high-quality software.
+
+---
+
+### 🛠️ My Skill Set
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind,redux" /><br>
+        <sub><b>React, Next.js, Vue.js, JavaScript, TypeScript, HTML5, CSS3, TailwindCSS, Redux</b></sub>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Backend</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,java,spring,go,rust" /><br>
+        <sub><b>Node.js, Express.js, Python, Django, Java, Spring Boot, Golang, Rust</b></sub>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Databases</h4>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" /><br>
+        <sub><b>MongoDB, PostgreSQL, MySQL, Redis, SQLite</b></sub>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>DevOps & Cloud</h4>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,nginx,terraform" /><br>
+        <sub><b>AWS, GCP, Docker, Kubernetes, Jenkins, Nginx, Terraform</b></sub>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Testing</h4>
+        <img src="https://skillicons.dev/icons?i=jest,vitest,testinglibrary,cypress" /><br>
+        <sub><b>Jest, Vitest, React Testing Library, Cypress</b></sub>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Tools & Others</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash" /><br>
+        <sub><b>Git, GitHub, VS Code, Figma, Postman, Linux, Bash</b></sub>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌱 Currently Focusing On
+
+-   Deepening my understanding of **System Design** and **Microservices Architecture**.
+-   Exploring advanced **Kubernetes** patterns for cloud-native orchestration.
+-   Diving into **WebAssembly (WASM)** for high-performance web applications.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <!-- Replace 'Swagat-Kumar-Mishra' with your GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Swagat-Kumar-Mishra&show_icons=true&theme=dracula&rank_icon=github" alt="Swagat's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat-Kumar-Mishra&layout=compact&theme=dracula" alt="Swagat's Top Languages"/>
+</p>
+
+<!-- Optional: Profile views counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Swagat-Kumar-Mishra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
