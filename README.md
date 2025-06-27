@@ -47,15 +47,10 @@ Here are some of the technologies I'm proficient in:
 
 ### 📊 My GitHub Stats
 
-<!-- 
-  **IMPORTANT:**
-  - Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the links below.
-  - You can change the `theme` parameter to your favorite theme.
-    Some popular themes: dracula, tokyonight, gruvbox, radical, merko, onedark
--->
+<!-- These links are now corrected with your username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Swagat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwagatKumarMishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Swagat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagatKumarMishra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
