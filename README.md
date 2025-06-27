@@ -1,59 +1,101 @@
+<!-- Dynamic Header -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300§ion=header&text=Swagat%20Kumar%20Mishra&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </div>
 
-### Hi there 👋, I'm Swagat Kumar Mishra
-#### A passionate Full-Stack & Mobile Developer crafting seamless digital experiences.
-
-I am a versatile developer with a love for building intuitive and performant applications. My journey in technology has led me to explore the full spectrum of development—from crafting beautiful user interfaces for the web to engineering robust, native mobile apps. I thrive on solving complex problems and am always eager to learn new technologies to bring innovative ideas to life.
-
----
-
-### 🚀 My Tech Stack
-
-Here are some of the technologies I'm proficient in:
-
-<p align="left">
-  <strong>Frontend & Web:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<div id="badges" align="center">
+  <!-- Replace the href with your actual profile links -->
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-</p>
+</div>
 
-<p align="left">
-  <strong>Mobile Development:</strong><br>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  </a>
-</p>
+<h1 align="center">
+  Hey there, I'm Swagat!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<p align="left">
-  <strong>Backend & General Purpose:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<!-- These links are now corrected with your username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwagatKumarMishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Swagat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagatKumarMishra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  I'm a passionate developer from India, with a love for creating seamless and intuitive digital experiences.
+  From crafting beautiful web interfaces to building robust mobile applications, I enjoy tackling challenges and bringing ideas to life.
 </p>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🔭   I’m currently working on exciting full-stack and mobile projects.
+- 🌱   I’m always learning and exploring new technologies.
+- 💬   Ask me about **JavaScript, Kotlin, Swift, Python**, or anything tech-related!
+- ⚡   Fun fact: I believe the best code is simple, elegant, and easy to read.
+
+---
+
+### 🛠️ My Skill Set
+
+Here are the languages and tools I'm proficient with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+      </a>
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Activity
+
 <p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories.
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SwagatKumarMishra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagatKumarMishra&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <!-- GitHub Streak -->
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatKumarMishra&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+<div align="center">
+  <h3>Thanks for stopping by! Let's connect and create something amazing together.</h3>
+</div>
