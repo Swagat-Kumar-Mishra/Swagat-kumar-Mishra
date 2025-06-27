@@ -1,25 +1,11 @@
-<!-- Dynamic Header -->
-<div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300§ion=header&text=Swagat%20Kumar%20Mishra&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=51&descAlign=62" alt="Header Banner"/>
-</div>
-
-<div id="badges" align="center">
-  <!-- Replace the href with your actual profile links -->
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
-
 <h1 align="center">
-  Hey there, I'm Swagat!
+  Hey there, I'm Swagat Kumar Mishra!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
   I'm a passionate developer from India, with a love for creating seamless and intuitive digital experiences.
+  <br>
   From crafting beautiful web interfaces to building robust mobile applications, I enjoy tackling challenges and bringing ideas to life.
 </p>
 
@@ -97,5 +83,5 @@ Here are the languages and tools I'm proficient with.
 
 ---
 <div align="center">
-  <h3>Thanks for stopping by! Let's connect and create something amazing together.</h3>
+  <h3>Thanks for stopping by! Feel free to explore my repositories.</h3>
 </div>
