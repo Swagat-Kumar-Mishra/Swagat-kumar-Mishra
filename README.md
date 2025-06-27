@@ -71,14 +71,14 @@ Here are the languages and tools I'm proficient with.
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SwagatKumarMishra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swagat-Kumar-Mishra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagatKumarMishra&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat-Kumar-Mishra&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 
   <!-- GitHub Streak -->
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatKumarMishra&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swagat-Kumar-Mishra&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
