@@ -1,87 +1,55 @@
-<h1 align="center">
-  Hey there, I'm Swagat Kumar Mishra!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<p align="center">
-  I'm a passionate developer from India, with a love for creating seamless and intuitive digital experiences.
-  <br>
-  From crafting beautiful web interfaces to building robust mobile applications, I enjoy tackling challenges and bringing ideas to life.
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <h1>
+    Hey there, I'm Swagat Kumar Mishra
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  </h1>
+  <h3>A passionate Full-Stack & Mobile Developer from India 🇮🇳</h3>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭   I’m currently working on exciting full-stack and mobile projects.
-- 🌱   I’m always learning and exploring new technologies.
-- 💬   Ask me about **JavaScript, Kotlin, Swift, Python**, or anything tech-related!
+I am a passionate developer with a love for creating seamless and intuitive digital experiences. From crafting beautiful web interfaces to building robust mobile applications with **Kotlin** and **Swift**, I thrive on tackling challenges and bringing ideas to life.
+
+- 🔭   I’m currently building exciting full-stack and mobile projects.
+- 🌱   I’m always learning and exploring new technologies and frameworks.
+- 💬   Ask me about **JavaScript, Kotlin, Swift, Python,** or anything tech-related!
 - ⚡   Fun fact: I believe the best code is simple, elegant, and easy to read.
 
 ---
 
-### 🛠️ My Skill Set
+### 🛠️ My Tech Stack
 
-Here are the languages and tools I'm proficient with.
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-      </a>
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Activity
+A collection of technologies and tools I'm proficient in.
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Swagat-Kumar-Mishra&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat-Kumar-Mishra&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-
-  <!-- GitHub Streak -->
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swagat-Kumar-Mishra&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,xcode,python,mongodb,mysql" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+  </a>
 </p>
 
 ---
-<div align="center">
-  <h3>Thanks for stopping by! Feel free to explore my repositories.</h3>
-</div>
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Swagat-Kumar-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat-Kumar-Mishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <br>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Swagat-Kumar-Mishra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swagat-Kumar-Mishra&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
