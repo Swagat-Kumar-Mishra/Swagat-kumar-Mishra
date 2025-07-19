@@ -16,6 +16,7 @@ I thrive in collaborative environments and am always eager to learn new technolo
 - 🌱   Exploring the depths of **System Design** and **Cloud-Native technologies**.
 - 💬   Ask me about anything related to **JavaScript, Swift, Kotlin, Python,** or software architecture!
  <!-- Replace with your actual email -->
+<br>
 
     </td>
     <td valign="top" width="40%">
