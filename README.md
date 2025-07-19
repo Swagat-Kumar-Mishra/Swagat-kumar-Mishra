@@ -19,7 +19,7 @@ I thrive in collaborative environments and am always eager to learn new technolo
 - 🔭   Currently building exciting projects with **React/Next.js** and **Kotlin Multiplatform**.
 - 🌱   Exploring the depths of **System Design** and **Cloud-Native technologies**.
 - 💬   Ask me about anything related to **JavaScript, Swift, Kotlin, Python,** or software architecture!
-- 📫   How to reach me: **swagat.mishra.professional@email.com** <!-- Replace with your actual email -->
+ <!-- Replace with your actual email -->
 
     </td>
     <td valign="top" width="40%">
