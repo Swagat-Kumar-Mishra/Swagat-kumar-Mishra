@@ -5,11 +5,7 @@
 
 <br>
 
-<!-- Two-Column Layout -->
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      
+
 ### 👨‍💻 About Me
 
 I'm a passionate and results-driven developer from India 🇮🇳 with a strong focus on building scalable applications and intuitive user interfaces. My expertise spans across the entire development lifecycle, from conceptualizing and designing backend architecture to crafting pixel-perfect mobile and web frontends. 
