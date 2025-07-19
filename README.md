@@ -5,7 +5,11 @@
 
 <br>
 
-
+<!-- Two-Column Layout -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
 ### 👨‍💻 About Me
 
 I'm a passionate and results-driven developer from India 🇮🇳 with a strong focus on building scalable applications and intuitive user interfaces. My expertise spans across the entire development lifecycle, from conceptualizing and designing backend architecture to crafting pixel-perfect mobile and web frontends. 
@@ -15,8 +19,6 @@ I thrive in collaborative environments and am always eager to learn new technolo
 - 🔭   Currently building exciting projects with **React/Next.js** and **Kotlin Multiplatform**.
 - 🌱   Exploring the depths of **System Design** and **Cloud-Native technologies**.
 - 💬   Ask me about anything related to **JavaScript, Swift, Kotlin, Python,** or software architecture!
- <!-- Replace with your actual email -->
-<br>
 
     </td>
     <td valign="top" width="40%">
