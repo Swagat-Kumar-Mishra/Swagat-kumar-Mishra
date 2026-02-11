@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB¢er=true&vCenter=true&width=460&lines=Hey+there%2C+I'm+Swagat+Kumar+Mishra" alt="Typing SVG" /></a>
   <h3 align="center">A Full-Stack & Mobile Developer Creating Impactful Digital Experiences</h3>
 </div>
 
@@ -20,19 +19,7 @@ I thrive in collaborative environments and am always eager to learn new technolo
 - 🌱   Exploring the depths of **System Design** and **Cloud-Native technologies**.
 - 💬   Ask me about anything related to **JavaScript, Swift, Kotlin, Python,** or software architecture!
 
-    </td>
-    <td valign="top" width="40%">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Swagat-Kumar-Mishra&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" alt="Swagat's GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swagat-Kumar-Mishra&layout=compact&theme=blueberry&hide_border=true&langs_count=8" alt="Top Languages" />
-
-    </td>
-  </tr>
-</table>
-
+    
 ---
 
 ### 🛠️ Languages and Tools
